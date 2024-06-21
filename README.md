@@ -27,5 +27,5 @@ https://quote.eastmoney.com/ztb/detail#type=ztgc
 如果对你有所帮助，赏杯咖啡
 <br />
 <br />
-![Image text](https://raw.githubusercontent.com/ak4stock/ths_auto_trade/main/code.jpg)
 
+![Image text](https://raw.githubusercontent.com/ak4stock/ths_auto_trade/main/code.jpg)     
